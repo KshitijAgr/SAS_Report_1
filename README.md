@@ -2,7 +2,7 @@
 
 #CHANNEL WISE INWARDS & NCA REPORT
 
-Channel wise Inwards & NCA report is contain the information of INWARDS & NCA details on each Team wise and Channel wise 
+Channel wise Inwards & NCA report contains  the information of INWARDS & NCA details on each Team wise and Channel wise 
 This report is containing the information on Team wise and channel wise Daily INWARDS, Yesterday INWARDS, Month INWARDS and Last Month INWARDS. Team wise and channel wise Daily NCA, Yesterday NCA, Month NCA and Last Month NCA. It also contains Team wise Accounts opened (NCA) for Daily, Month till date and current financial year.
 
 This report is useful to segregate the data on each Team wise and Channel wise how many D-MAT Account applications (INWARDS) they got and how many accounts opened (NCA) for day wise, yesterday wise, Month till date wise and last month wise.
